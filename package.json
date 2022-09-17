@@ -1,0 +1,23 @@
+{
+  "name": "imazer",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "vite",
+    "rsw": "rsw",
+    "watch": "rsw watch",
+    "build:fe": "vite build",
+    "build": "rsw build && pnpm build:fe",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "rsw-img-effects": "workspace:*",
+    "vue": "3.2.39"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "3.1.0",
+    "unocss": "0.45.21",
+    "vite": "3.1.2",
+    "vite-plugin-rsw": "2.0.9"
+  }
+}

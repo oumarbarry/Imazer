@@ -1,0 +1,17 @@
+name = "rsw"
+version = "0.1.0"
+
+
+interval = 50
+cli = "pnpm"
+
+
+[new]
+using = "wasm-pack"
+
+
+#! ################# NPM Package #################
+#! -------- package: rsw-img-effects --------
+[[crates]]
+name = "rsw-img-effects"
+link = true
