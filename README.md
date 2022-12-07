@@ -8,8 +8,7 @@
 
 ### Tools:
 - For the Web App:
-    - [Vue 3](https://vuejs.org), [Vite 3](https://github.com/vitejs/vite), [TypeScript](https://www.typescriptlang.org)
-    - [UnoCSS](https://github.com/unocss/unocss#unocss) : the instant on-demand Atomic CSS engine
+    - [Vue 3](https://vuejs.org), [Vite 3](https://github.com/vitejs/vite), [UnoCSS](https://github.com/unocss/unocss#unocss), [TypeScript](https://www.typescriptlang.org)
     - [vite-plugin-rsw](https://github.com/rwasm/vite-plugin-rsw) : the wasm-pack plugin for Vite
 
 <b>
